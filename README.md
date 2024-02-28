@@ -75,9 +75,8 @@ Email :manasranjansahoo971@gmail.com
 
 # What I am learn
 - C++ Programming(Overview):<br>
-
-C++ is a versatile and high-performance programming language designed for system programming, game development, and general-purpose applications.
-It combines low-level memory manipulation with high-level abstractions, offering developers the flexibility to control hardware resources while maintaining code readability and scalability.
+   C++ is a versatile and high-performance programming language designed for system programming, game development, and general-purpose applications.
+   It combines low-level memory manipulation with high-level abstractions, offering developers the flexibility to control hardware resources while maintaining code readability and scalability.
 
 - Basic Of C++ Programming.<br>
 - Operators in C++.<br>
