@@ -1,3 +1,42 @@
+# What I am learn
+- C++ Programming(Overview):<br>
+    C++ is a versatile and high-performance programming language designed for system programming, game development, and general-purpose applications.
+   It combines low-level memory manipulation with high-level abstractions, offering developers the flexibility to control hardware resources while maintaining code readability and scalability.
+
+- Basic Of C++ Programming.<br>
+- Operators in C++.<br>
+- Conditional Statements.<br>
+- Looping in C++.<br>
+- Array in C++.<br>
+- Function in C++.<br>
+- Recursion.<br>
+- Storage Class in C++.<br>
+- Structure.<br>
+- Union.<br>
+- Enumeration(enum).<br>
+- File Handling.<br>
+- Exception Handling.<br>
+- OOPs Concept.<br>
+- Access Specifiers.<br>
+- Constructor.<br>
+- Destructor.<br>
+- Friend Function.<br>
+- Vector.<br>
+
+
+- Version Control (GitHub):<br>
+I have acquired knowledge about using Git for version control, including initializing a repository, committing changes, and pushing code to GitHub.
+  
+- Documentation Skills:<br>
+I have practiced creating a clear and informative README file. This involves writing in Markdown, providing usage instructions, explaining the project structure, and more.
+
+- Project Structure:<br>
+I have gained an understanding of organizing code into functions, creating modular structures, and managing multiple files in a project.
+
+- Problem Solving:<br>
+I have likely encountered and resolved issues and errors during the development process, enhancing my problem-solving skills.
+
+
 # Stydent Management System Project In Cpp
 
 This console-based Student Management System is implemented in C++, allowing users to perform various operations related to student data.
@@ -40,7 +79,7 @@ The project allows users to perform various banking operations such as creating 
 
 ## Features
 
-- Create New Account: Users can create a new bank account by providing their name, account number, and initial balance.
+- Create a New Account: Users can create a new bank account by providing their name, account number, and initial balance.
 
 - Show All Accounts: Display information about all existing accounts, including account holder's name, account number, and balance.
 
@@ -72,41 +111,3 @@ Compile and run:
 ## Contact Information
 Name : Manas Ranjan Sahoo<br>
 Email :manasranjansahoo971@gmail.com
-
-# What I am learn
-- C++ Programming(Overview):<br>
-   C++ is a versatile and high-performance programming language designed for system programming, game development, and general-purpose applications.
-   It combines low-level memory manipulation with high-level abstractions, offering developers the flexibility to control hardware resources while maintaining code readability and scalability.
-
-- Basic Of C++ Programming.<br>
-- Operators in C++.<br>
-- Conditional Statements.<br>
-- Looping in C++.<br>
-- Array in C++.<br>
-- Function in C++.<br>
-- Recursion.<br>
-- Storage Class in C++.<br>
-- Structure.<br>
-- Union.<br>
-- Enumeration(emun).<br>
-- File Handling.<br>
-- Exception Handling.<br>
-- OOPs Concept.<br>
-- Access Specifiers.<br>
-- Constrctor.<br>
-- Destructor.<br>
-- Friend Function.<br>
-- Vector.<br>
-
-
-- Version Control (GitHub):<br>
-I have acquired knowledge about using Git for version control, including initializing a repository, committing changes, and pushing code to GitHub.
-  
-- Documentation Skills:<br>
-I have practiced creating a clear and informative README file. This involves writing in Markdown, providing usage instructions, explaining the project structure, and more.
-
-- Project Structure:<br>
-I have gained an understanding of organizing code into functions, creating modular structures, and managing multiple files in a project.
-
-- Problem Solving:<br>
-I have likely encountered and resolved issues and errors during the development process, enhancing my problem-solving skills.
